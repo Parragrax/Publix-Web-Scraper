@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "utHYaXdDxjU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\Documents\\Scraper Project\\Webscraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.playwright\\1.63.0\\microsoft.playwright.1.63.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
